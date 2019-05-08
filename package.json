@@ -21,5 +21,17 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "Mike has had enough of his city-slicker sons complaining about cleaning the bathrooms, folding laundry, and other household chores. Luke and his younger brothers are off to learn what it's like to work on a farm.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imorerod/assignment-react-rock-pickers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imorerod/assignment-react-rock-pickers/issues"
+  },
+  "homepage": "https://github.com/imorerod/assignment-react-rock-pickers#readme"
 }
